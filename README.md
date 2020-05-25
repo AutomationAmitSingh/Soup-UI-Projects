@@ -1,0 +1,1 @@
+This project consist of different Soup UI projects. Which can be imported and run directly using Soup UI.
